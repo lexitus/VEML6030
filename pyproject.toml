@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "veml6030py"
+name = "veml6030"
 version = "0.1.0"
 description = "Python library for reading VEML6030 ambient light sensor from Sparkfun."
 authors = ["n8many"]
